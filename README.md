@@ -36,7 +36,7 @@ The dataset contains information about mall customers, including attributes such
 
 The Power BI dashboard provides visual insights into customer demographics, income distribution, spending behavior, and customer segments.
 
-![Mall Customer Segmentation Dashboard](Dashboard.png)
+![Mall Customer Segmentation Dashboard](dashboard.png)
 
 ## Key Insights
 
